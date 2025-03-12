@@ -21,18 +21,22 @@ Create a Virtual Environment (optional but recommended):
 
 On Windows (Command Prompt):
 python -m venv venv
+
 venv\Scripts\activate
 
 Install Dependencies:
 
 pip install --upgrade pip
+
 pip install -r requirements.txt
 
 
 3. Running the Application
 
 After installing the dependencies, run:
+
 python app.py
+
 Then open your browser and navigate to:
 http://localhost:5000
 (If running on a VM, replace localhost with your VM’s public IP address.)
