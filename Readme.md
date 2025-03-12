@@ -7,7 +7,7 @@ This project is a Flask-based image classification API. It uses pre-trained CNN 
 ### 1. Clone the Repository
 
 Open a terminal and run:
-git clone https://github.com/your_username/your_repo.git
+git clone https://github.com/hikartik/Classification_app.git
 cd your_repo
 
 2. Set Up Your Environment (Local or VM)
