@@ -1,5 +1,6 @@
 # Image Classification Flask API
 
+Depolyment URL: https://classification-app-r53j.onrender.com
 This project is a Flask-based image classification API. It uses pre-trained CNN models to predict the class of an uploaded image.
 
 ## Quick Start Guide
@@ -8,7 +9,7 @@ This project is a Flask-based image classification API. It uses pre-trained CNN 
 
 Open a terminal and run:
 git clone https://github.com/hikartik/Classification_app.git
-cd your_repo
+
 
 2. Set Up Your Environment (Local or VM)
 
