@@ -1,6 +1,10 @@
 # Image Classification Flask API
 
 Depolyment URL: https://classification-app-r53j.onrender.com
+
+Docker Image: https://hub.docker.com/r/hiikartik/classification_app
+
+
 This project is a Flask-based image classification API. It uses pre-trained CNN models to predict the class of an uploaded image.
 
 ## Quick Start Guide
