@@ -1,4 +1,5 @@
 # Image Classification Flask API
+Here is the report on the project: https://www.overleaf.com/read/rrkdwfzrgxjz#a35998
 
 Depolyment URL: https://classification-app-r53j.onrender.com
 
