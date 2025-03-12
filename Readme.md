@@ -35,14 +35,3 @@ http://localhost:5000
 
 
 
-Project Structure Overview
-
-project/
-├── app.py                   # Flask application code
-├── Dockerfile               # Docker build instructions
-├── requirements.txt         # Python dependencies list
-├── model/                   # Folder containing saved model weights (.pth files)
-├── templates/               # HTML templates for the web interface
-│   └── index.html
-└── static/                  # Static files (CSS, images, etc.)
-    └── style.css
